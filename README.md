@@ -16,8 +16,8 @@ I am:
 
 #### A little more information
 
-- 🔭 I’m currently working on rebranding our podcast and building a style system
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with ☝️
-- 💬 Ask me about [no-code](https://twitter.com/search?q=%23nocode) (I know, this is GitHub, it's ironic)
-- 📫 How to reach me: [@rileyrichter](https://twitter.com/rileyrichter)
+- I’m currently working on rebranding our podcast and building a style system
+- I’m currently learning React
+- I’m looking for help with ☝️
+- Ask me about [no-code](https://twitter.com/search?q=%23nocode) (I know, this is GitHub, it's ironic)
+- How to reach me: [@rileyrichter](https://twitter.com/rileyrichter)
