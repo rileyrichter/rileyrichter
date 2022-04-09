@@ -6,7 +6,7 @@ My name is Ben Parker and I've been designing, creating, and building for the we
 
 I am:
 
-- a Customer Support Manager at [Webflow](https://webflow.com)
+- a Strategic Technical Architect at [Webflow](https://webflow.com)
 - in love with Webflow and love creating and building with it
 - a podcast co-host ([visualdev.fm](https://visualdev.fm))
 - a drummer 🤘
